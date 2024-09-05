@@ -1,3 +1,4 @@
+***Jalavishudhakara Bot***
 *Problem Statement:*
 Water hyacinth infestation and waste accumulation on water banks pose significant environmental and economic challenges, requiring efficient and effective removal methods to restore aquatic ecosystems and mitigate associated risks.
 
